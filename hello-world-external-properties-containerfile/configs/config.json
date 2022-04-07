@@ -1,0 +1,4 @@
+{
+    "production": true,
+    "welcomeMessage": "I'm in a Container with an external config loaded"
+}

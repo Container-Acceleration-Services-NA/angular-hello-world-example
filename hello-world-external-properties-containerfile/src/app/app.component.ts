@@ -7,7 +7,6 @@ import { AppService } from './configuration.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'hello-world ';
 
   appData: any;
 
