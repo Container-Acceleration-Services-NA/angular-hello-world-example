@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
 
+## Requirements
+This project was tested with the following node and npm versions
+
+npm --version
+8.3.1
+
+node --version
+v16.14.0
+
 ## Development server
 
 Run `npm install` to download the dependencies.
