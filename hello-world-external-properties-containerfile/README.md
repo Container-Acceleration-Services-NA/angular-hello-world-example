@@ -5,6 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Requirements
 This project was tested with the following node and npm versions
 
+podman
+
 npm --version
 8.3.1
 
@@ -31,7 +33,7 @@ Check the result with  `podman images`
 
 ## Run the container
 
-Run `podman run -p 8080:8080 --name frontend --rm=true -v localhost/frontend`
+Run `podman run -p 8080:8080 --name frontend --rm=true localhost/frontend`
 Check the page on `localhost:8080`
 
 ## Run the container using mounting an external config
